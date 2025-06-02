@@ -38,6 +38,7 @@
 ### 3. ♟️ **BATTLE-DESK**
    - Juego de ajedrez en un entorno web
    - Tecnologías: three.js, HTML
+   - [BATTLE-DESK](https://github.com/AlejandroMB02/BATTLE-DESK)
 
 ---
 
