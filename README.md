@@ -55,5 +55,3 @@
 🐙 **GitHub**: [github.com/AlejandroMB02](https://github.com/AlejandroMB02)  
 
 ---
-
-![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=AlejandroMB02&show_icons=true&theme=dark&hide_title=true)
