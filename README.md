@@ -33,7 +33,7 @@
 
 ### 2. 🎮 **Simulación de Físicas con CUDA + OpenGL**
    - Aceleración de cálculos físicos en GPU (CUDA) y renderizado en tiempo real (OpenGL).  
-   - Técnicas: Paralelización de bucles, optimización de memoria compartida.
+   - [ParticleSim](https://github.com/AlejandroMB02/Physics-simulation-CUDA-OpenGL)
 
 ### 3. ♟️ **BATTLE-DESK**
    - Juego de ajedrez en un entorno web
