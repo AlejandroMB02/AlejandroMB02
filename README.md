@@ -29,7 +29,8 @@
 ## 🚀 Proyectos Destacados
 
 ### 1. 🏗️ **Algoritmo de Distribución Dinámica de Carga con MPI**
-   - Implementación en C++ usando **OpenMPI** para balancear trabajo en un cluster.  
+   - Implementación en C++ **OpenMPI** con equilibrado dinámico de la carga.
+   - [EquilibradoDinamico](https://github.com/AlejandroMB02/Equilibrado_Dinamico_MPI)
 
 ### 2. 🎮 **Simulación de Físicas con CUDA + OpenGL**
    - Aceleración de cálculos físicos en GPU (CUDA) y renderizado en tiempo real (OpenGL).  
