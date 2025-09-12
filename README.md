@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Alejandro, Ingeniero Informático graduado en la Universidad de Granada (UGR)
 
 🎓 **Graduado en Ingeniería Informática** orientado a Ingeniería de Computadores  
-⚡ **Enfoque**: **C++ + Linux** para **sistemas cercanos a hardware**, **tiempo real** y **software fiable**  .  
+⚡ **Enfoque**: **C++ + Linux** para **sistemas cercanos a hardware**, **tiempo real** y **software fiable**
 🏢 **Interés**: **Sistemas embebidos**, **Automoción y transporte**, **Aeroespacial y defensa**, **Robótica/IoT**
 
 ---
@@ -15,7 +15,7 @@
 
 - **C++**: STL, manejo de memoria, concurrencia
 - **Linux**: CMake, GDB/Valgrind/Perf, scripting Bash, buenas prácticas de *build & packaging*
-- **Calidad**: **GoogleTest**, TDD básico, revisión de código, documentación clara
+- **Calidad** (aprendiendo): **GoogleTest**, TDD básico, revisión de código, documentación clara
 
 #### **A futuro**
 - **Tiempo real / HW**: **FreeRTOS/Zephyr**, temporización, colas, interrupciones, drivers de usuario
@@ -40,7 +40,7 @@
    - Implementación en C++ **OpenMPI** con equilibrado dinámico de la carga.
    - [EquilibradoDinamico](https://github.com/AlejandroMB02/Equilibrado_Dinamico_MPI)
 
-### 2. 🎮 **Simulación de Físicas con CUDA + OpenGL**
+### 2. 🎮 **Simulación de Física con CUDA + OpenGL**
    - Aceleración de cálculos físicos en GPU (CUDA) y renderizado en tiempo real (OpenGL).  
    - [ParticleSim](https://github.com/AlejandroMB02/Physics-simulation-CUDA-OpenGL)
 
@@ -52,10 +52,10 @@
 ---
 
 ## 📌 Objetivos Profesionales
-- **Industria**: Busco oportunidades en empresas que requieran:  
-  - Desarrollo de software paralelo (simulaciones, procesamiento masivo de datos).  
-  - Optimización de aplicaciones para GPU/clusters.  
-  - Infraestructura escalable (cloud, sistemas distribuidos).  
+Busco oportunidades en empresas que requieran:  
+- **C/C++** en **Embebidos / Automotive / Aerospace / Robótica**  
+- **Embedded Linux / RTOS** (FreeRTOS/Zephyr), **C++ en tiempo real**, **ROS 2**  
+- Entornos con foco en **calidad de software**
 
 ---
 
