@@ -1,19 +1,29 @@
 # 👋 ¡Hola! Soy Alejandro, Ingeniero Informático graduado en la Universidad de Granada (UGR)
 
-🎓 **Graduado en Ingeniería Informática** orientado a Ingeniería de Computadores  
-⚡ **Enfoque**: Programación paralela (GPU/CUDA, MPI), sistemas distribuidos y optimización de cargas de trabajo.  
-🏢 **Interés**: Industria tecnológica, especialmente en roles relacionados con **HPC, cloud computing o desarrollo de sistemas escalables**.
+🎓 **Graduado en Ingeniería Informática (Universidad de Granada)** orientado a Ingeniería de Computadores  
+⚡ **Enfoque**: **C++ + Linux** para **sistemas cercanos a hardware**, **tiempo real** y **software fiable**  .  
+🏢 **Interés**: **Sistemas embebidos**, **Automoción y transporte**, **Aeroespacial y defensa**, **Robótica/IoT**
 
 ---
 
 ## 🛠️ Tecnologías y Habilidades
+
+### **Desarrollo C++**
+
+- **C++**: STL, manejo de memoria, concurrencia
+- **Linux**: CMake, GDB/Valgrind/Perf, scripting Bash, buenas prácticas de *build & packaging*
+- **Calidad**: **GoogleTest**, TDD básico, revisión de código, documentación clara
+
+#### **A futuro**
+- **Tiempo real / HW**: **FreeRTOS/Zephyr**, temporización, colas, interrupciones, drivers de usuario
+
+> Objetivo: crecer hacia **Especialista/Arquitecto C++** en embebidos/automoción/aeroespacial.
 
 ### 🔥 **Computación Paralela y HPC**
 ![CUDA](https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![OpenMPI](https://img.shields.io/badge/OpenMPI-000000?style=for-the-badge&logo=openmpi&logoColor=white)
 ![SLURM](https://img.shields.io/badge/SLURM-0077B5?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white)
 
 - **GPUs NVIDIA**: Desarrollo de kernels CUDA para aceleración de algoritmos.
 - **Clusters HPC**: Experiencia básica con SLURM para gestión de jobs.
