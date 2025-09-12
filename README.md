@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Alejandro, Ingeniero Informático graduado en la Universidad de Granada (UGR)
 
-🎓 **Graduado en Ingeniería Informática (Universidad de Granada)** orientado a Ingeniería de Computadores  
+🎓 **Graduado en Ingeniería Informática** orientado a Ingeniería de Computadores  
 ⚡ **Enfoque**: **C++ + Linux** para **sistemas cercanos a hardware**, **tiempo real** y **software fiable**  .  
 🏢 **Interés**: **Sistemas embebidos**, **Automoción y transporte**, **Aeroespacial y defensa**, **Robótica/IoT**
 
