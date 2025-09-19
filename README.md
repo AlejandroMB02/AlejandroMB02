@@ -20,7 +20,7 @@
 #### **A futuro**
 - **Tiempo real / HW**: **FreeRTOS/Zephyr**, temporización, colas, interrupciones, drivers de usuario
 
-> Objetivo: crecer hacia **Especialista/Arquitecto C++** en embebidos/automoción/aeroespacial.
+> Objetivo: crecer hacia **Especialista/Arquitecto C++** en embebidos/automoción/aeroespacial/IoT.
 
 ### 🔥 **Computación Paralela y HPC**
 ![CUDA](https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
