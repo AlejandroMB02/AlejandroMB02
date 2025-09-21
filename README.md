@@ -14,11 +14,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 - **C++**: STL, manejo de memoria, concurrencia
-- **Linux**: CMake, GDB/Valgrind/Perf, scripting Bash, buenas prácticas de *build & packaging*
+- **Linux**: CMake, GDB, scripting Bash, buenas prácticas de *build & packaging*
 - **Calidad** (aprendiendo): **GoogleTest**, TDD básico, revisión de código, documentación clara
-
-#### **A futuro**
-- **Tiempo real / HW**: **FreeRTOS/Zephyr**, temporización, colas, interrupciones, drivers de usuario
 
 > Objetivo: crecer hacia **Especialista/Arquitecto C++** en embebidos/automoción/aeroespacial/IoT.
 
@@ -34,7 +31,15 @@
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Proyectos software embebido / IoT
+
+## 1. 📡 Monitorización IoT con ESP32 y MQTT
+   - Implementación en ESP32 (C++/ESP-IDF) para la recogida de datos de sensores.
+   - Envío de información a través del protocolo MQTT.
+   - Visualización de los datos en una interfaz web en tiempo real.
+   - [Estación IoT](https://github.com/AlejandroMB02/ESP32-MQTT-Control)
+
+## 🚀 Otros proyectos
 
 ### 1. 🏗️ **Algoritmo de Distribución Dinámica de Carga con MPI**
    - Implementación en C++ **OpenMPI** con equilibrado dinámico de la carga.
@@ -53,8 +58,8 @@
 
 ## 📌 Objetivos Profesionales
 Busco oportunidades en empresas que requieran:  
-- **C/C++** en **Embebidos / Automotive / Aerospace / Robótica**  
-- **Embedded Linux / RTOS** (FreeRTOS/Zephyr), **C++ en tiempo real**, **ROS 2**  
+- **C/C++** en **Embebidos / Automotive / Aerospace / Robótica / IoT**  
+- **Embedded Linux / RTOS** (FreeRTOS/Zephyr)
 - Entornos con foco en **calidad de software**
 
 ---
