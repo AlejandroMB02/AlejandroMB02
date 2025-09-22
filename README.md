@@ -33,7 +33,7 @@ Me muevo cómodo en C/C++ sobre Linux, automatizo con Bash/Docker y cuido la cal
 
 ---
 
-## 🚀 Proyectos software embebido / IoT
+## 🚀 Proyectos destacables
 
 ## 1. 📡 Monitorización IoT con ESP32 y MQTT
    - Implementación en ESP32 (C++/ESP-IDF) para la recogida de datos de sensores.
@@ -41,17 +41,15 @@ Me muevo cómodo en C/C++ sobre Linux, automatizo con Bash/Docker y cuido la cal
    - Visualización de los datos en una interfaz web en tiempo real.
    - [Estación IoT](https://github.com/AlejandroMB02/ESP32-MQTT-Control)
 
-## 🚀 Proyectos destacables
-
-### 1. 🏗️ **Algoritmo de Distribución Dinámica de Carga con MPI**
+### 2. 🏗️ **Algoritmo de Distribución Dinámica de Carga con MPI**
    - Implementación en C++ **OpenMPI** con equilibrado dinámico de la carga.
    - [EquilibradoDinamico](https://github.com/AlejandroMB02/Equilibrado_Dinamico_MPI)
 
-### 2. 🎮 **Simulación de Física con CUDA + OpenGL**
+### 3. 🎮 **Simulación de Física con CUDA + OpenGL**
    - Aceleración de cálculos físicos en GPU (CUDA) y renderizado en tiempo real (OpenGL).  
    - [ParticleSim](https://github.com/AlejandroMB02/Physics-simulation-CUDA-OpenGL)
 
-### 3. ♟️ **BATTLE-DESK**
+### 4. ♟️ **BATTLE-DESK**
    - Juego de ajedrez en un entorno web
    - Tecnologías: three.js, HTML
    - [BATTLE-DESK](https://github.com/AlejandroMB02/BATTLE-DESK)
@@ -67,7 +65,7 @@ Busco oportunidades en empresas que requieran:
 ---
 
 ## 📫 Contacto
-📧 **Email**: [ale.marquez.barrios@gmail.com](mailto:tu.email@ejemplo.com)  
+📧 **Email**: [ale.marquez.barrios@gmail.com](mailto:ale.marquez.barrios@gmail.com)  
 💼 **LinkedIn**: [linkedin.com/in/ale-marquez-barrios](https://www.linkedin.com/in/ale-marquez-barrios/)  
 🐙 **GitHub**: [github.com/AlejandroMB02](https://github.com/AlejandroMB02)  
 
