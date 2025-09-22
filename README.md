@@ -1,20 +1,23 @@
 # 👋 ¡Hola! Soy Alejandro, Ingeniero Informático graduado en la Universidad de Granada (UGR)
 
 🎓 **Graduado en Ingeniería Informática** orientado a Ingeniería de Computadores  
-⚡ **Enfoque**: **C++ + Linux** para **sistemas cercanos a hardware**, **tiempo real** y **software fiable**
-🏢 **Interés**: **Sistemas embebidos**, **Automoción y transporte**, **Aeroespacial y defensa**, **Robótica/IoT**
+⚡ **Enfoque**: **C++ + Linux**, **sistemas cercanos a hardware**, **tiempo real** y **software fiable**
+🏢 **Interés**: **Ingeniería de Software**, **Linux** , **Sistemas embebidos**, **Automoción y transporte**, **Aeroespacial y defensa**, **Robótica/IoT**
+
+Me muevo cómodo en C/C++ sobre Linux, automatizo con Bash/Docker y cuido la calidad del software.
 
 ---
 
 ## 🛠️ Tecnologías y Habilidades
 
-### 💻 **Desarrollo C++**
+### 💻 **Competencias**
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-- **C++**: STL, manejo de memoria, concurrencia
-- **Linux**: CMake, GDB, scripting Bash, buenas prácticas de *build & packaging*
+- **C++**: STL, manejo de memoria, concurrencia, estructura de datos
+- **Linux**: CMake, GDB, scripting Bash, contenedores con **Docker**
 - **Calidad** (aprendiendo): **GoogleTest**, TDD básico, revisión de código, documentación clara
 
 > Objetivo: crecer hacia **Especialista/Arquitecto C++** en embebidos/automoción/aeroespacial/IoT.
