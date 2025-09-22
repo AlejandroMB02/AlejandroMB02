@@ -10,23 +10,22 @@ Me muevo cómodo en C/C++ sobre Linux, automatizo con Bash/Docker y cuido la cal
 
 ## 🛠️ Tecnologías y Habilidades
 
-### 💻 **Competencias**
+### 💻 **Desarrollo C++**
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 - **C++**: STL, manejo de memoria, concurrencia, estructura de datos
 - **Linux**: CMake, GDB, scripting Bash, contenedores con **Docker**
-- **Calidad** (aprendiendo): **GoogleTest**, TDD básico, revisión de código, documentación clara
+- **DevOps**: observabilidad con **Prometheus + Grafana**
 
-> Objetivo: crecer hacia **Especialista/Arquitecto C++** en embebidos/automoción/aeroespacial/IoT.
+> Objetivo: crecer hacia **Especialista/Arquitecto C++**.
 
 ### 🔥 **Computación Paralela y HPC**
 ![CUDA](https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![OpenMPI](https://img.shields.io/badge/OpenMPI-000000?style=for-the-badge&logo=openmpi&logoColor=white)
 ![SLURM](https://img.shields.io/badge/SLURM-0077B5?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 - **GPUs NVIDIA**: Desarrollo de kernels CUDA para aceleración de algoritmos.
 - **Clusters HPC**: Experiencia básica con SLURM para gestión de jobs.
@@ -42,7 +41,7 @@ Me muevo cómodo en C/C++ sobre Linux, automatizo con Bash/Docker y cuido la cal
    - Visualización de los datos en una interfaz web en tiempo real.
    - [Estación IoT](https://github.com/AlejandroMB02/ESP32-MQTT-Control)
 
-## 🚀 Otros proyectos
+## 🚀 Proyectos destacables
 
 ### 1. 🏗️ **Algoritmo de Distribución Dinámica de Carga con MPI**
    - Implementación en C++ **OpenMPI** con equilibrado dinámico de la carga.
@@ -61,8 +60,8 @@ Me muevo cómodo en C/C++ sobre Linux, automatizo con Bash/Docker y cuido la cal
 
 ## 📌 Objetivos Profesionales
 Busco oportunidades en empresas que requieran:  
-- **C/C++** en **Embebidos / Automotive / Aerospace / Robótica / IoT**  
-- **Embedded Linux / RTOS** (FreeRTOS/Zephyr)
+- **Desarrollador C/C++** 
+- **Soltura en Linux**
 - Entornos con foco en **calidad de software**
 
 ---
