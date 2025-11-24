@@ -34,21 +34,25 @@ Me muevo cómodo en C/C++ sobre Linux, automatizo con Bash/Docker y cuido la cal
 
 ## 🚀 Proyectos destacables
 
-## 1. 📡 Monitorización IoT con ESP32 y MQTT
+### 1. 📡 Monitorización IoT con ESP32 y MQTT
    - Implementación en ESP32 (C++/ESP-IDF) para la recogida de datos de sensores.
    - Envío de información a través del protocolo MQTT.
    - Visualización de los datos en una interfaz web en tiempo real.
    - [Estación IoT](https://github.com/AlejandroMB02/ESP32-MQTT-Control)
 
-### 2. 🏗️ **Algoritmo de Distribución Dinámica de Carga con MPI**
+### 2. 📝 Editor de texto QT/QML
+   - Implementación en C++ con Qt y CMake.
+   - [MiniPad](https://github.com/AlejandroMB02/Text-Editor)
+
+### 3. 🏗️ **Algoritmo de Distribución Dinámica de Carga con MPI**
    - Implementación en C++ **OpenMPI** con equilibrado dinámico de la carga.
    - [EquilibradoDinamico](https://github.com/AlejandroMB02/Equilibrado_Dinamico_MPI)
 
-### 3. 🎮 **Simulación de Física con CUDA + OpenGL**
+### 4. 🎮 **Simulación de Física con CUDA + OpenGL**
    - Aceleración de cálculos físicos en GPU (CUDA) y renderizado en tiempo real (OpenGL).  
    - [ParticleSim](https://github.com/AlejandroMB02/Physics-simulation-CUDA-OpenGL)
 
-### 4. ♟️ **BATTLE-DESK**
+### 5. ♟️ **BATTLE-DESK**
    - Juego de ajedrez en un entorno web
    - Tecnologías: three.js, HTML
    - [BATTLE-DESK](https://github.com/AlejandroMB02/BATTLE-DESK)
