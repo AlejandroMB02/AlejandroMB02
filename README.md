@@ -37,7 +37,7 @@ Me muevo cómodo en C/C++ sobre Linux, automatizo con Bash/Docker y cuido la cal
 ### 0. Sistema de control de vuelo para UAV (Actualmente en desarrollo)
    - Lógica PID implementada
    - Herramientas profesionales: CMake, GoogleTest, Clang-Tidy
-   - [FCS UAV]https://github.com/AlejandroMB02/Sistema-de-Control-de-Vuelo-FCS
+   - [FCS UAV](https://github.com/AlejandroMB02/Sistema-de-Control-de-Vuelo-FCS)
 
 ### 1. 📡 Monitorización IoT con ESP32 y MQTT
    - Implementación en ESP32 (C++/ESP-IDF) para la recogida de datos de sensores.
