@@ -15,8 +15,8 @@ Me muevo cómodo en C/C++ sobre Linux, automatizo con Bash/Docker y cuido la cal
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-- **C++**: STL, manejo de memoria, concurrencia, estructura de datos
-- **Linux**: CMake, GDB, scripting Bash, contenedores con **Docker**
+- **C++**: CMake, GoogleTest, GDB, STL, manejo de memoria, concurrencia, estructura de datos
+- **Linux**: scripting Bash, contenedores con **Docker**
 - **DevOps**: observabilidad con **Prometheus + Grafana**
 
 > Objetivo: crecer hacia **Especialista/Arquitecto C++**.
